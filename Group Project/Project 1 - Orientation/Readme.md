@@ -1,0 +1,8 @@
+# Adam Gaddis, Jordan Givens, Fernando Soto, and Marine Lopez
+### Project Requirements
+##### This first project will be about getting Tableau installed and acquiring data for the rest of the semester.
+##### As a group, be sure that everyone has Tableau installed.  You should be able to get a free student copy at https://www.tableau.com/academic/students (Links to an external site.) .  If you are using a school laptop, you may need IT to help you install it, but I believe that it is already on the approved list.
+##### From here, get data from a source, preferably a reasonably large dataset.  We can discuss places to get data during the lecture, but data.gov and gapminder.org are excellent sources of data.  Your goal with the data acquisition is to agree on a group about what data you would like to discuss for the rest of the class.
+##### Create a presentation through a teams recorded video documenting what was entailed in ensuring that everyone had access to the same tool.  Briefly mention what your data topic will be.
+##### Finally, one representative from each group should reply to the posted presentation and critically evaluate the presentation.  Were there any major issues with the conclusions?  What things did they do well?  Were there any major issues with the presentation itself (stylistically or technically)?  What aspects of the presentation were positive?  We will forego a formal rubric this semester in favor of more freestyle feedback.
+##### You will be graded on your presentation and on the presence of feedback on the other group presentations.
